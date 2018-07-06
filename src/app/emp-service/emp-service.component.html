@@ -1,0 +1,14 @@
+<h3>Employee Details</h3>
+  <table>
+    <thead>
+      <th>#</th>
+      <th>Name</th>
+      <th>Sex</th>
+    </thead>
+    <tr *ngFor = "let details of employees; let i = index">
+      <td>{{i + 1}}</td>
+      <td>{{details.name}}</td>
+      <td>{{details.sex}}</td>
+    </tr>
+</table>
+<h2>{{errorMessage}}</h2>

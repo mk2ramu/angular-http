@@ -1,0 +1,31 @@
+ {
+      "obj": [  {
+            "name": "Ramamoorthy",
+            "sex" : "Male"
+        },
+        {
+            "name": "Anuradha",
+            "sex" : "Female"
+        },
+        {
+            "name": "Sandhana",
+            "sex" : "Female"
+        },
+        {
+            "name": "Muthukrishnan",
+            "sex" : "Male"
+        },
+        {
+            "name": "Pugazhiniya",
+            "sex" : "Female"
+        },
+        {
+            "name": "Yazhini",
+            "sex" : "Female"
+        },
+        {
+            "name": "Nesan",
+            "sex" : "Male"
+        }
+    ]
+}
